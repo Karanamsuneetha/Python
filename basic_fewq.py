@@ -49,7 +49,7 @@
 #print("Votable status:",votable)
 
 #password checking
-original_password = "geetha"
+original_password = "suneetha"
 password = input("Please enter your password: ")
 if original_password == password:
     print("Correct! The password you entered matches the original password.")
